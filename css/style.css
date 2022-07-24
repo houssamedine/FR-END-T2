@@ -1,0 +1,80 @@
+*{
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+        font-family: 'Poppins',
+        sans-serif;
+}
+
+#headr{
+    background: url("../img/bg_header.jpg") no-repeat;
+    background-size: cover;
+    min-height: 520px;
+    text-align: center;
+    padding-top:240px ;
+    color: white;
+    font-family: "open sans", Helvetica, Arial;
+    font-weight: 300;
+}
+
+.navbar{
+    background-color:#101010;
+}
+#paragh1{
+    font-family: "Open sans", Helvetica, Arial;
+    font-size: 40px;
+    margin-bottom: 6px;
+    color: white;
+    line-height: 1.15em;
+    font-weight: bolder;
+}
+#paragP{
+    color:rgba(255, 255, 255, 0.75);
+    margin-bottom: 25px;
+}
+#paragP2{
+    margin: 0 0 10px;
+}
+
+.btn{
+    margin-bottom: 5px;
+    cursor: pointer;
+    padding: 6px 12px;
+    border-radius: 4px;
+}
+
+.btn-outline-light {
+    background: transparent;
+    color: rgba(255, 255, 255, .5);;
+    border: 2px solid rgba(255, 255, 255, .5);
+    font-size: 16px;
+    width: 200px;
+}
+.btn-outline-light:hover{
+    background: transparent;
+    border: 2 solid whitesmoke;
+    color: white;
+}
+#btnwa{
+    background: #FF9B22;
+    color: white;
+    border: 2px solid;    
+    font-size: 16px;
+    width: 200px;
+}
+
+.border-warning{
+    border-color: #FF9B22 !important;
+}
+
+.h1{
+    font-weight: 100;
+    font-size: 30px;
+    margin-top: 30px;  
+}
+
+.text-muted{
+    color:#888;
+}
+
+
